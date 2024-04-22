@@ -20,12 +20,12 @@ body {
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: var(--primary) url('https://i.ibb.co/TTcdVX3/images-1.jpg') no-repeat center center/cover;
+  background: var(--primary) url('https://telegra.ph/file/efa95dac659f93718b73f.jpg') no-repeat center center/cover;
   backdrop-filter: blur(20px);
 }
 
 .section1::after {
-  content: "venocyber-ᴍᴅ is designed to bring a whole new level of excitement to your boring WhatsApp use.";
+  content: "Los-Rios-ᴍᴅ is designed to bring a whole new level of excitement to your boring WhatsApp use.";
   position: absolute;
   bottom: 10px;
   right: 10px;
@@ -56,7 +56,7 @@ body {
   bottom: 10px;
   right: 10px;
   color: #000000;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .form {    /*input field */
@@ -97,7 +97,7 @@ body {
     margin-top: 20px;
     margin-left: 150px;
     margin-bottom: 20px;
-    background-image: url('https://i.ibb.co/TTcdVX3/images-1.jpg');
+    background-image: url('https://telegra.ph/file/efa95dac659f93718b73f.jpg');
     background-size: cover;
     background-position: center;
 }
